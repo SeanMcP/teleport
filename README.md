@@ -1,10 +1,10 @@
-# Teleporter
+# Teleport
 
 An experimental utility to inline CSS `@import`s
 
 ---
 
-Organizing CSS styles into multiple files is nice but chaining network requests isn't. Teleporter solves this by resolving and inlining CSS imports. You get the benefits of `@import` statements without the drawbacks.
+Organizing CSS styles into multiple files is nice but chaining network requests isn't. Teleport solves this by resolving and inlining CSS imports. You get the benefits of `@import` statements without the drawbacks.
 
 In:
 
